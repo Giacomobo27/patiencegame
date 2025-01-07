@@ -44,6 +44,7 @@ A Java implementation of the classic card game **Patience** (also known as **Sol
    cd patience-game
 
 4. **Run code**:
+   
    the jar file is in out/artifacts/se_game_jar folder and it can be run using java -jar and its 
    directory command through terminal.
 
@@ -58,6 +59,3 @@ Play until you either win the game or run out of moves.
 
 
 
-
-
-the jar file is in out/artifacts/se_game_jar folder and it can be run using java -jar and its directory command through terminal.
