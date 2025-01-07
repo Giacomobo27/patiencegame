@@ -42,11 +42,12 @@ A Java implementation of the classic card game **Patience** (also known as **Sol
    ```bash
    git clone <repository-url>
    cd patience-game
-```
-
 
 4. **Run code**:
-the jar file is in out/artifacts/se_game_jar folder and it can be run using java -jar and its directory command through terminal.
+   the jar file is in out/artifacts/se_game_jar folder and it can be run using java -jar and its 
+   directory command through terminal.
+
+---
 
 ##How to play
 
