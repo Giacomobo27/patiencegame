@@ -50,7 +50,7 @@ A Java implementation of the classic card game **Patience** (also known as **Sol
 
 ---
 
-##How to play
+## How to play
 
 Launch the game using the Main class.
 Follow the on-screen instructions to move cards between slots.
